@@ -5,10 +5,6 @@ Not feeling up to cook today? We can help with that! Use our Restaurant Locater 
 
 
 
-<h2>Getting Started</h2>
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-
 <h2>Built With</h2>
 <li>Bootstrap 4</li>
 <li>CSS</li>
